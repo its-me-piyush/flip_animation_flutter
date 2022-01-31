@@ -3,7 +3,7 @@
     <img src="https://diegolaballos.com/files/images/flutter-icon.jpg" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Simple Flutter Login UI</h3>
+  <h3 align="center">Flip Animation Flutter</h3>
 
   <p align="center">
     Flip Animation with flutter,
@@ -17,7 +17,7 @@
   </p>
 </p>
 
-
+https://user-images.githubusercontent.com/85029306/151838336-29c073c8-e83d-4f38-886a-c79145e1d029.mp4
 
 ## Table of contents
 
