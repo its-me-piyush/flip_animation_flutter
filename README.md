@@ -6,7 +6,9 @@
   <h3 align="center">Simple Flutter Login UI</h3>
 
   <p align="center">
-    Example login UI with flutter, Base project made with much  :heart: 
+    Flip Animation with flutter,
+    <br>
+    Made with :heart: 
     <br>
     <br>
     <a href="https://github.com/zsiecr/flip_animation_flutter/issues/new">Report bug</a>
@@ -14,6 +16,8 @@
     <a href="https://github.com/zsiecr/flip_animation_flutter/issues/new">Request feature</a>
   </p>
 </p>
+
+
 
 ## Table of contents
 
